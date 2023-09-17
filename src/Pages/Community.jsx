@@ -4,8 +4,8 @@ import Footer from '../Components/Footer';
 
 const Community = () => {
   return (
-    <div class=" container-sm ">
-      <div className=" mb-2 rounded-1  ">
+    <div class=" container-sm  ">
+      <div className=" mb-2 rounded-1 ">
         <div class="row ">
           <div class="col bg-white mt-2 mb-2 rounded-1  ">
       
